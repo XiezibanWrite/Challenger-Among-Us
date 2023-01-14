@@ -1,155 +1,152 @@
-# Challenger-Among-Us
-### Challenger MOD by Lunastellia
+# 挑战者-Among-Us模组
+### 挑战者模组 - 作者Lunastellia
 
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/Discord.png) | 🔶 You can join Discord for more information about this =>                                               Discord (FR/EN) : https://discord.gg/ZYsjg5dvB7| 
-| :---:   | :-: | 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/Discord.png?raw=true) | 🔶 你可以加入我们的Discord服务器来获得更多关于此模组的信息=>   Discord (FR/EN) :                           https://discord.gg/ZYsjg5dvB7 |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/steam.png?raw=true) | 🔶 You can download / install and play Among Us Challenger with STEAM =>                                               -Steam Store- (FR/EN) : [Click Here !](https://store.steampowered.com/app/2160150/AmongUs_Challenger/)| 
-| :---:   | :-: | 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/steam.png?raw=true) | 🔶 你可以用Steam来下载/安装来游玩Among Us挑战者 =>                                                                -Steam商店- (FR/EN) : [点击这里 !](https://store.steampowered.com/app/2160150/AmongUs_Challenger/) |
+| ------------------------------------------------------------ | :----------------------------------------------------------: |
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/OrianaChallenger.png?raw=true) | 🔶 More information about the roles is available on the website : (https://orianagames.com/challenger/roles)| 
-| :---:   | :-: | 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/OrianaChallenger.png?raw=true) | 🔶 有关这些职业的更多信息，请访问以下网站:                                                                                                    (https://orianagames.com/challenger/roles) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/Goodlossfr.png?raw=true) | 🔶 Create your account on Goodloss.fr and link it to your steam account => Goodloss : https://orianagames.com/register| 
-| :---:   | :-: | 
+| ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/Goodlossfr.png?raw=true) | 🔶 在Goodloss.fr上创建您的帐户，并将其链接到您的steam帐户 =>                                                Goodloss :  https://orianagames.com/register |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-## Available roles
+## 可用职业
 
 ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/rolespanelimg.png?raw=true) 
 
-## Available Map
+## 可用地图
 
 
 
-### Challenger Polus & Nuclear Polus
+### 挑战者Polus & 反应堆Polus
 
 ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/MAPBPN.png?raw=true)
 
-Game Start with "Challenger polus map" ... When the game begins, a first Timer (yellow) appears, once the latter has reached "0", Active sabotages are automatically cancelled, it is impossible to press the Buzz button and no other sabotages can be launched, however it is still possible to report a body, a second timer (red) appears and an alarm siren sounds, players will have to go to a secure area (Admin / Office) before the latter reaches "0", if players is outside the safe area they will then be killed without leaving a body! once the alert ends, players can leave the secure area, the map will be changed.
+游戏开始前选用“挑战者Polus地图”，当游戏开始时,第一个定时器(黄色)出现,一旦后者达到“0”,主动破坏会自动取消,不可能按任何按钮和其他破坏可以启动,但是仍有可能报告的尸体,第二个计时器(红色)和警报汽笛的声音出现,玩家将必须去一个安全的区域(管理室/办公室),当时间达到“0”时,如果玩家在安全的地方他们就不会死亡!一旦警报结束，玩家可以离开安全区域，地图将被更改。
 
-### Challenger Mirah
+### 挑战者Mira
 ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/MAPHQ.png?raw=true)
-* Sensor change to Detect player on electrical area.
+* 传感器改变为检测玩家是否在电器室
 
-### Challenger Skeld
+### 挑战者Skeld
 
-* (Work in Progress)
+* (制作中)
 
-## Available Feature
+## 可用功能
 
 ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/surveyico.png?raw=true)
 
-* The icons above present in game represent the current state of the surveys (Admin / Camera / Vitale / Buzzer) 
-You can press "F12" for Hide/Show.
-When the icon is framed in Green it is possible to use it, on the other hand when the icon is red it is impossible to use it!
+* 游戏中出现的图标代表调查的当前状态(管理地图/摄像头/生命监测仪/按钮)
+可以通过按“F12”来隐藏/显示。
+当图标框在绿色时，可以使用它，相反，当图标是红色时，就不可能使用它!
 
-It is possible to configure => 
-- You can disable them permanently,
-- You can deactivate them as long as a certain number of players have not been killed !
-- You can set timers on it which elapses as long as the player consults the survey,
-it is possible to configure a reset of the usage time after each meeting or never reset the timer
+可以进行设置的位置 => 
+- 你可以永久禁用它们,
+- 只要没有击杀一定数量的玩家，你就可以关闭它们 !
+- 你可以设置计时器，只要玩家查看调查，时间就会倒计时，
+可以在每次会议后重置使用时间，也可以不重置计时器
 
-## Submerged
+## 潜艇地图
 
-From Challenger 5.0.0 version, Submerged is included on the update, most roles and features are available and functional, however some roles are not yet fully functional, here is the list of roles that may encounter problems :
+从挑战者5.0.0版本开始，更新中包含了潜艇地图，大多数职业和功能都可用，但一些职业还没有完全功能，这里是可能遇到问题的职业列表 :
 
-- Shériff (Only With "drop Gun setting", is not yet functional)   
-- Engineer (some custom sabotage is currently not repairable)
-- Builder (there are problems with some vent)
-- Sorcerer (runes do not spawn on the map)
-- Arsonist (Refuel station do not spawn on the map, you can play if you choose "0" has the oil value needed to oil a player) 
-- Eater The body detection gauge does not work well (due to the floor system)
+- 警长 (只有“丢枪设置”，目前还没有其他功能)   
+- 工程师 (一些自定义破坏目前无法修复)
+- 建筑工 (有些管道有问题)
+- 男巫 (符文不会在地图上生成)
+- 纵火犯(加油站不刷在地图上，你可以玩如果你选择“0”有油值需要加油一个玩家) 
+- 秃鹫的尸体查找系统不正常 (由于地板的系统)
 
-- Link to Submerged github : https://github.com/SubmergedAmongUs/Submerged
-
-
+- Github上潜艇地图的链接: https://github.com/SubmergedAmongUs/Submerged
 
 
 
-## How to install !
 
-🔶  You can launch Challenger in 2 ways, With "ModManager" or "STEAM" 
 
-***
+## 如何安装!
 
- 🔻 Install with STEAM 🔻
-
-🔹 Download and Instal STEAM : (https://store.steampowered.com/about/).
-
-🔹 search the store "AmongUs Challenger", Add, Download and play ! (https://store.steampowered.com/app/2160150)
-
+🔶  你有2个方法可以安装Among Us挑战者  （使用Mod Manager或者Steam)
 
 ***
 
-  🔻 Install with ModManager 🔻
+ 🔻 用Steam安装的方法🔻
 
-🔹 Download Mod Manager : (Download the installer at https://mm.matux.fr/latest and follow the installation process.)
+🔹 下载并且安装Steam: (https://store.steampowered.com/about/).
 
-🔹 Start Mod Manager & Select "Mods" > "All-In-One" > Challenger > "Download".
+🔹 在商店里搜索Among Us Challenger , 添加, 下载 然后尽情的游玩吧 ! (https://store.steampowered.com/app/2160150)
+
+
+***
+
+  🔻用Mod Manager安装的方法🔻
+
+🔹 下载Mod Manager : (安装文件位于 https://mm.matux.fr/latest 并按照安装步骤一步一步安装.)
+
+🔹 打开Mod Manager & 选择模组" > "推荐" > Challenger > "下载".
 
 ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/Oriana_Challenger_launchMM.png?raw=true)
 
-🔹 Once the download is finished click on the play icon which replaces the download button... or on your shortcut (desktop) !
+🔹 一旦下载完成，点击开启图标，它将取代下载按钮…或者在你的桌面创建快捷方式 !
 
 ***
 
 
-## TOS
+## 游戏协议
 
-- Users must consult the TOS = https://github.com/Lunastellia/Challenger-Among-Us/blob/main/TOS
+- 玩家必须接受游戏协议= https://github.com/Lunastellia/Challenger-Among-Us/blob/main/TOS
 
-## LICENSE :
+## 协议 :
 
-This File (Challenger.dll) Use :
-- GPL-3.0 License
-- Custom Owner license (LICENSE-CLAUSE). https://github.com/Lunastellia/Challenger-Among-Us/blob/main/LICENSE
+此文件 (Challenger.dll) 使用 :
+- GPL-3.0 开源协议
+- 自定义所有者许可证(许可证条款). https://github.com/Lunastellia/Challenger-Among-Us/blob/main/LICENSE
 
-## ModPolicy
+## 官方模组协议
 
 ### Innersloth LLC
 
-This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+本mod不隶属于我们或Innersloth公司，其中包含的内容没有被Innersloth公司赞助。本模组中包含的部分材料是Innersloth公司的财产。©Innersloth公司。
 
-More informatios = https://www.innersloth.com/modpolicy.php
+更多协议= https://www.innersloth.com/modpolicy.php
 
 ### Oriana® 
 
-Several parts of the source code of this Mod are subject to copyright, any reproduction or misuse without the prior consent of these owners is prohibited.
-the protected content belongs to Oriana®. 
+本模组的源代码的几个部分受版权限制，未经这些所有者事先同意的任何复制或滥用是禁止的。
+受保护内容属于Oriana®。
 
-- Copyright : https://github.com/Lunastellia/AmongUs-Challenger-Challenger/blob/main/LICENSE-NOTICE
+- 版权 : https://github.com/Lunastellia/AmongUs-Challenger-Challenger/blob/main/LICENSE-NOTICE
 
-## PROJETCS LINK
+## 使用的项目链接
 
-- BepInEx (Framework) -> https://github.com/BepInEx
-- Challenger (Challenger.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-Challenger
-- Challenger OS (ChallengerOS.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-ChallengerOS
-- Challenger Level (ChallengerLevel.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-ChallengerLevel
+- BepInEx (框架) -> https://github.com/BepInEx
+- 挑战者 (Challenger.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-Challenger
+- 挑战者系统(ChallengerOS.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-ChallengerOS
+- 挑战者  登记 (ChallengerLevel.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-ChallengerLevel
 - Goodloss Mod (GLMod.dll) -> https://github.com/MatuxGG/MatuxMod
-- Reactor (Reactor.dll) -> Reactor https://github.com/NuclearPowered/Reactor
-- Submerged (Submerged.dll) -> https://github.com/SubmergedAmongUs/Submerged 
-- Launcher Challenger -> https://github.com/MatuxGG/ChallengerLauncher
-- Server (Impostor) -> https://github.com/DigiWorm0/LevelImposter/releases
+- 反应堆(Reactor.dll) -> Reactor https://github.com/NuclearPowered/Reactor
+- 潜艇地图 (Submerged.dll) -> https://github.com/SubmergedAmongUs/Submerged 
+- 挑战者启动器-> https://github.com/MatuxGG/ChallengerLauncher
+- 服务器 (Impostor) -> https://github.com/DigiWorm0/LevelImposter/releases
 
-## Credits :
+## 制作 :
 
-### OrianaGames Team :
+### OrianaGames团队 :
 
-Lunastellia - Game Designer / Developper (Challenger, Client)
+Lunastellia - 游戏设计师/ 开发者 (挑战者, 客户端)
 
-Matux - Goodloss Developper (Server, Launcher , API, GLMod.dll)
+Matux - Goodloss开发者 (服务器, 启动器 , 接口, GLMod.dll)
 
-Asman - design picture, cosmetics & original graphique content
+Asman - 图片设计师, 装扮和原始的图形内容
 
-### Other credits :
+### 其他制作人 :
 
-Inglorious Mustard Team - for alpha test & share idea/concept.
+Inglorious Mustard 团队 - 用于alpha测试和分享想法/概念
 
-Noé Guitton - for Music original creator.
+Noé Guitton - 为原创音乐创作者
 
-Jaytan804 - original idea and concept for : Reaper role.
-
-
-
+Jaytan804 - 最初的想法和概念:死神的职业
 
