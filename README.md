@@ -1,6 +1,10 @@
 # 挑战者-Among-Us模组
 ### 挑战者模组 - 作者Lunastellia
 
+this repository is a fork of the original repository, it aims at a translated version (English > Chinese simplified) of the initial github page: https://github.com/Lunastellia/Challenger-Among-Us) This repository does not contain version of the game.
+
+这个仓库是原始仓库的一个分支，它针对的是最初GitHub页面的翻译版本(英文>中文简体):https://github.com/Lunastellia/Challenger-Among-Us)。这个存储库不包含游戏版本。
+
 
 | ![Install](https://github.com/Lunastellia/Challenger-Among-Us/blob/main/Ressources/Discord.png?raw=true) | 🔶 你可以加入我们的Discord服务器来获得更多关于此模组的信息=>   Discord (FR/EN) :                           https://discord.gg/ZYsjg5dvB7 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
