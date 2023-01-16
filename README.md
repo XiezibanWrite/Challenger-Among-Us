@@ -129,7 +129,7 @@ this repository is a fork of the original repository, it aims at a translated ve
 - BepInEx (框架) -> https://github.com/BepInEx
 - 挑战者 (Challenger.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-Challenger
 - 挑战者系统(ChallengerOS.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-ChallengerOS
-- 挑战者  登记 (ChallengerLevel.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-ChallengerLevel
+- 挑战者  等级系统 (ChallengerLevel.dll) -> https://github.com/Lunastellia/AmongUs-Challenger-ChallengerLevel
 - Goodloss Mod (GLMod.dll) -> https://github.com/MatuxGG/MatuxMod
 - 反应堆(Reactor.dll) -> Reactor https://github.com/NuclearPowered/Reactor
 - 潜艇地图 (Submerged.dll) -> https://github.com/SubmergedAmongUs/Submerged 
